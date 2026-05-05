@@ -8,4 +8,13 @@ git commit -m 'your message'
 
 git log
 
-git checkout uuid
+git checkout uuid or branch_name
+
+git branch -> branchlarni listi
+
+git branch new_branch -> craete
+
+git merge branch_name
+
+
+
