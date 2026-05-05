@@ -1,0 +1,11 @@
+git init
+
+git status =>
+
+git add added_file_name or .
+
+git commit -m 'your message'
+
+git log
+
+git checkout uuid
