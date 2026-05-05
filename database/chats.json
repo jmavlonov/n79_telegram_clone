@@ -1,0 +1,56 @@
+{
+    "john_jasur": {
+        "chat_id": "john_jasur",
+        "users": [
+            "john",
+            "jasur"
+        ],
+        "messages": [
+            {
+                "sender": "john",
+                "receiver": "jasur",
+                "message": "What's up?",
+                "created_at": "2026-04-02 19:49:40.785244"
+            },
+            {
+                "sender": "john",
+                "receiver": "jasur",
+                "message": "hi",
+                "created_at": "2026-04-02 19:49:56.842637"
+            },
+            {
+                "sender": "john",
+                "receiver": "jasur",
+                "message": "hey",
+                "created_at": "2026-04-02 20:01:35.265430"
+            }
+        ]
+    },
+    "john_sherzod": {
+        "chat_id": "john_sherzod",
+        "users": [
+            "john",
+            "sherzod"
+        ],
+        "messages": [
+            {
+                "sender": "john",
+                "receiver": "sherzod",
+                "message": "hey sherzod",
+                "created_at": "2026-04-02 20:02:20.289114"
+            },
+            {
+                "sender": "sherzod",
+                "receiver": "john",
+                "message": "hey john",
+                "created_at": "2026-04-02 20:27:52.819767"
+            },
+            {
+                "sender": "john",
+                "receiver": "sherzod",
+                "message": "asdsadasdas",
+                "created_at": "2026-04-02 20:34:04.967721"
+            }
+        ]
+    }
+}

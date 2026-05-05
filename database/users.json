@@ -1,0 +1,35 @@
+{
+    "john": {
+        "id": "c39009d1-cc81-4fb6-b692-dc66c22af62c",
+        "username": "john",
+        "password": "$2b$08$obMkIi2sBmdcVxhEQS7uh.hwJrWoFeAP5L8pm2fKMq9VxaJ/HQA4W",
+        "full_name": null,
+        "language": "en",
+        "created_at": "2026-03-28 20:45:17.007510",
+        "contacts": [
+            "jasur",
+            "sherzod"
+        ]
+    },
+    "sherzod": {
+        "id": "fc8d12a5-aa3f-47ce-84bd-5e845f4d7a8e",
+        "username": "sherzod",
+        "password": "$2b$08$RT4pwR9vdzsPOtDgvAY6hOhBb5rGjAzB0Q5GGItb/Cykl9.cOJKaa",
+        "full_name": null,
+        "language": "en",
+        "created_at": "2026-03-28 20:45:24.474712",
+        "contacts": [
+            "jasur",
+            "john"
+        ]
+    },
+    "jasur": {
+        "id": "1a3335d5-b157-491c-9c09-2dced1d13964",
+        "username": "jasur",
+        "password": "$2b$08$7nOPWJC8XQm3w/l1X.YGp.hnKyp/C.Ak1hhMT9sPQgTxYsMJO9vEa",
+        "full_name": null,
+        "language": "en",
+        "created_at": "2026-03-31 19:47:22.319062",
+        "contacts": []
+    }
+}
